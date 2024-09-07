@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-![Uploading bottom sheet gif.gif…]()
+![bottom sheet gif](https://github.com/user-attachments/assets/66ad362a-7059-4c8f-9401-2b81ea5ea46c)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
