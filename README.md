@@ -1,10 +1,10 @@
 # day14_mytask
 
+![bottom sheet gif](https://github.com/user-attachments/assets/dca96be4-04c3-4447-beaf-a8c2c1aec9a6)This project is a starting point for a Flutter application.
+
 A new Flutter project.
 
 ## Getting Started
-![bottom sheet gif](https://github.com/user-attachments/assets/66ad362a-7059-4c8f-9401-2b81ea5ea46c)
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
